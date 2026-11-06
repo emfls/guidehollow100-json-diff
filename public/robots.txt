@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://json-diff.guidehollow.com/sitemap-index.xml

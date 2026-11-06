@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "json-diff",
+  "section": "두 JSON의 구조 차이 찾기",
+  "hero": "두 JSON의 구조 차이 찾기",
+  "description": "객체 키 순서는 무시합니다. 경로는 JSON Pointer입니다. 배열은 위치별 또는 배열 전체 값으로 비교합니다.",
+  "pageTitle": "두 JSON의 구조 차이 찾기 | GuideHollow",
+  "url": "https://json-diff.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
